@@ -1,2 +1,1 @@
-print("hello little bitches")
-print("-")
+print("hello lil richie")
