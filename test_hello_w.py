@@ -1,1 +1,2 @@
-print("hello motherfuckers")
+print("hello little bitches")
+print("-")
