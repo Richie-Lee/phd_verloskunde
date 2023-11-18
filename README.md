@@ -1,10 +1,4 @@
-# Time to hack!
+# Results by submission:
 
-Upload files (push changes):
-- Drag & Drop
-- Go to file -> click pencil (edit) -> copy paste code
-- Note: ensure the file name is the same
+- 1: 
 
-Download file (pull)
-- Go to file -> download
-- Go to file -> copy paste all code
